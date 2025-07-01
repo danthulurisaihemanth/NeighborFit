@@ -1,4 +1,4 @@
-# NeighborFit: Data-Driven Neighborhood Matching
+## NeighborFit: Data-Driven Neighborhood Matching
 
 > **Academic Project**: A comprehensive solution to the neighborhood-lifestyle matching problem through systematic research, algorithmic thinking, and real-world data integration.
 
@@ -258,13 +258,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 Contact & Support
 
 ### Academic Inquiries
-- **Email**: [your.email@university.edu](mailto:your.email@university.edu)
-- **LinkedIn**: [Your Academic Profile](https://linkedin.com/in/yourprofile)
-- **Research Gate**: [Your Research Profile](https://researchgate.net/profile/yourprofile)
-
-### Technical Support
-- **GitHub Issues**: [Report bugs or request features](https://github.com/yourusername/neighborfit/issues)
-- **Documentation**: [Technical docs and API reference](https://neighborfit.vercel.app/docs)
+- **Email**: [your.email@university.edu](mailto:saihemanthdanthuluri03@gmail.com)
+- **LinkedIn**: [Your Academic Profile](https://www.linkedin.com/in/danthuluri-saihemanth-2332a1252/)
 
 ---
 
