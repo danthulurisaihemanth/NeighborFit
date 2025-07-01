@@ -58,6 +58,12 @@ Score = Σ(Factor_i × Weight_i × User_Preference_i × Lifestyle_Multiplier_i)
 - **Algorithm validation** through user feedback simulation
 - **A/B tested** different weighting methodologies
 
+# NeighborFit Interface
+
+![Homepage](./ScreenShots/Home_Page.png)
+![Homepage](./ScreenShots/Result_Page.png)
+![Homepage](./ScreenShots/.Browse_Page.png)
+
 ## 🚀 Key Features
 
 ### 🎨 User Experience
