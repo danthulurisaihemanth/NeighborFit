@@ -7,6 +7,12 @@
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind-3.0-38B2AC)](https://tailwindcss.com/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
+# NeighborFit Interface
+
+![Homepage](./ScreenShots/Home_Page.png)
+![Homepage](./ScreenShots/Result_Page.png)
+![Homepage](./ScreenShots/.Browse_Page.png)
+
 ## 🎯 Project Overview
 
 NeighborFit addresses the critical problem of **information asymmetry** and **cognitive overload** in neighborhood selection through a sophisticated, data-driven matching algorithm. Built within academic constraints (zero budget, 2-week timeline), this application demonstrates systematic problem-solving and algorithmic thinking.
